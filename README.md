@@ -2,7 +2,7 @@
   <img src="app_icon.png" alt="IDM Pro Tool Logo" width="128" height="128">
 </p>
 
-<h1 align="center">IDM Pro Tool</h1>
+<h1 align="center">🚀 IDM to the moon 🌓</h1>
 
 <p align="center">
   <strong>多功能 Internet Download Manager 原生 C# 激活与状态维护套件</strong>
